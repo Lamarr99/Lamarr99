@@ -1,16 +1,21 @@
-### Hi there 👋
+# Tony Osijo
 
-<!--
-**Lamarr99/Lamarr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Reach me: 
+- [linkedin.com/in/TonyOsijo](https://www.linkedin.com/in/TonyOsijo/)
+- [twitter.com/TonyOsijo](https://twitter.com/TonyOsijo)
+- [tonyleo2019@outlook.com]
 
-Here are some ideas to get you started:
+## Hi there👋, 
+I'm Tony Osijo, frontend developer intern at Braingital.I am passionate about technologies and open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👽 I ❤️ ReactJs
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 💬 Hobbies: Reading, listening to music.
+- ⚡ Languages: JavaScript.
+
+
+---
+
+⭐️ From [Tony Osijo](http://www.github.com/Lamarr99)
+
