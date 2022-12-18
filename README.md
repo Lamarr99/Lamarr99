@@ -11,7 +11,7 @@ I'm Tony Osijo, frontend developer intern at Braingital.I am passionate about Fr
 
 - 👽 I ❤️ ReactJs
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 💬 Hobbies: Reading, listening to music.
+- 💬 Hobbies: Reading, writing code.
 - ⚡ Languages: JavaScript.
 
 
