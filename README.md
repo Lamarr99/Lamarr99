@@ -9,7 +9,7 @@
 I'm Tony Osijo, frontend developer intern at Braingital.I am passionate about Frontend development.
 
 
-- 👽 I ❤️ ReactJs
+- 👽 I ❤️ ReactJs.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💬 Hobbies: Reading, writing code.
 - ⚡ Languages: JavaScript.
