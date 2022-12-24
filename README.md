@@ -1,6 +1,7 @@
 # Tony Osijo
 
 - 📫 Reach me: 
+
 - [linkedin.com/in/TonyOsijo](https://www.linkedin.com/in/Tony-Osijo/)
 - [twitter.com/TonyOsijo](https://twitter.com/TonyOsijo)
 - [tonyleo2019@outlook.com](mailto:tonyleo2019@outlook.com)
