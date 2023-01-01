@@ -11,10 +11,9 @@ I'm Tony Osijo, frontend developer intern at Braingital.I am passionate about Fr
 
 
 - 👽 I ❤️ ReactJs.
-- 🌱 I’m currently learning DSA and Typescript.
+- 🌱 I’m currently learning DSA and Typescript..
 - 💬 Hobbies: Reading, writing code.
 - ⚡ Languages: JavaScript.
-
 
 
 ---
