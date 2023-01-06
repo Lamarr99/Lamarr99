@@ -7,9 +7,9 @@
 - [tonyleo2019@outlook.com](mailto:tonyleo2019@outlook.com)
 
 
-
 ## Hi there👋, 
 I'm Tony Osijo, frontend developer intern at Braingital.I am passionate about Frontend development.
+
 
 
 - 👽 I ❤️ ReactJs.
