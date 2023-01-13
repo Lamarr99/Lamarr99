@@ -17,6 +17,7 @@ I'm Tony Osijo, frontend developer intern at Braingital.I am passionate about Fr
 - ⚡ Languages: JavaScript. 
 
 
+
 ---
 
 ⭐️ From [Tony Osijo](http://www.github.com/Lamarr99)
